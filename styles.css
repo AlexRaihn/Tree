@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+#tree-container {
+    background-color: gray;
+    color: white;
+    border: 1px solid #808080;
+    border-radius: 20px;
+    display: flex;
+}
+.tree-item{
+    margin: 1%;
+    font-size: 25px;
+}
